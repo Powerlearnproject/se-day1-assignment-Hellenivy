@@ -49,6 +49,7 @@ c)Project Manger
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Answer;
+
 Integrated Development Environments (IDEs) play a crucial role in software development by providing a comprehensive set of tools and features to streamline the coding process and improve productivity. Reasons why IDEs are important include:
 
 a)Code Editing: IDEs offer advanced code editing features such as syntax highlighting, auto-completion, and debugging tools, making it easier for developers to write and navigate code efficiently.
@@ -112,7 +113,9 @@ a)Real-Time Prompt Optimization technology have enabled AI models to provide ins
 b)Integration with Domain-Specific Models.These specialized models are trained on industry-specific data, allowing for more accurate and relevant responses to prompts in fields like medicine, law, and finance. The combination of prompt engineering with these tailored models enhances the precision and utility of AI in specialized areas.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Answer;
+
 Prompt:
 Create a marketing campaign for a new product.
 
