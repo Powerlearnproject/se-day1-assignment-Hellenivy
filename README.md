@@ -102,8 +102,7 @@ Importance;
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
 Answer;
-  Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias.It enhances the user-AI interaction so the AI 
-  understands the user's intention even with minimal input.
+  Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias.
 Importance;
 
 a)Real-Time Prompt Optimization technology have enabled AI models to provide instant feedback on the effectiveness of prompts. This technology assesses the prompt's clarity, potential for bias, and alignment with the desired outcome, offering suggestions for improvement. 
@@ -115,7 +114,6 @@ Prompt:
 Create a marketing campaign for a new product.
 Improved Prompt:
 Develop a social media marketing campaign targeting millennial women aged 25-35 to promote a new sustainable skincare line focused on eco-friendly packaging and cruelty-free ingredients
-
 The improved prompt is more effective for the following reasons:
 a)Specificity: The improved prompt outlines the target audience (millennial women aged 25-35), the product (sustainable skincare line), key selling points (eco-friendly packaging and cruelty-free ingredients) and the marketing channel  being (social media). This level of detail provides a clear direction for the marketing team on how to tailor the campaign to reach the intended audience effectively.
 b)Conciseness: Clearly defining the target audience, product features and marketing channel in a brief statement, the improved prompt eliminates ambiguity and ensures that the marketing team understands the goals of the campaign upfront. This reduces the risk of misunderstandings and aids in creating a focused and impactful marketing strategy.
