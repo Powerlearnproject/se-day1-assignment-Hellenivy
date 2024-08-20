@@ -103,7 +103,7 @@ Importance;
 Define prompt engineering and discuss its importance in interacting with AI models.
 Answer;
   Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias.
-  Importance;
+Importance;
   a)Real-Time Prompt Optimization technology have enabled AI models to provide instant feedback on the effectiveness of prompts. This technology assesses the prompt's clarity, potential for bias, and 
   alignment with the desired outcome, offering suggestions for improvement. 
   b)Integration with Domain-Specific Models.These specialized models are trained on industry-specific data, allowing for more accurate and relevant responses to prompts in fields like medicine, law, and 
