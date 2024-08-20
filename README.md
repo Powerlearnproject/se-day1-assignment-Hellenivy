@@ -99,7 +99,6 @@ d)Acceptance Testing done to evaluate weather a software meets the business and 
 Importance;
          Improve product quality.
          Tverify that the system meets all of its functional and non-functional requirements.
-
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
 
@@ -113,8 +112,6 @@ a)Real-Time Prompt Optimization technology have enabled AI models to provide ins
 b)Integration with Domain-Specific Models.These specialized models are trained on industry-specific data, allowing for more accurate and relevant responses to prompts in fields like medicine, law, and finance. The combination of prompt engineering with these tailored models enhances the precision and utility of AI in specialized areas.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
-Answer;
 
 Prompt:
 Create a marketing campaign for a new product.
