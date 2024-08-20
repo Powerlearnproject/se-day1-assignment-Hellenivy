@@ -6,16 +6,19 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Answer;It is the application of engineering principles, methods and development of high-quality software systems symmetrically. Also involves product design, testing, deployment, and maintenance of software.
 Importance;It is important because it's essential for creating high-quality software that meets the needs of users and is easy to maintain
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 Answer;
 a)Waterfall Model: In the 1970s, the Waterfall Model was introduced as a systematic approach to software development. Itmodel emphasized a sequential process where each phase had to be completed before moving on to the next. It also provided a structured methodology, it  did face criticisms for lack of flexibility and adaptability to changing requirements.
 b)Agile Manifesto: Was done in 2001, a software developers group crafted the Agile Manifesto, introducing a new paradigm in software development. Agile methodologies prioritize collaboration, adaptability and iterative development over rigid plans and documentation. The approaches such as  Scrum and Kanban have since gained widespread adoption for their ability to respond to changing requirements and deliver working software more efficiently.
 c)DevOps: The emergence of DevOps in the 2000s marked a significant milestone in software engineering by bridging the gap between development and operations teams. DevOps emphasizes collaboration, automation, and continuous delivery to streamline the software development lifecycle. By integrating development, testing, and deployment processes, DevOps aims to improve efficiency, reduce errors, and accelerate software delivery.
+
 List and briefly explain the phases of the Software Development Life Cycle.
 Answer;
 a)Deployment it is putting the software into a production environment so it's accessible to users. 
 b)Maintainance here among other tasks, the team fixes bugs, resolves customer issues, and manages software changes. In addition, the team monitors overall system performance, security, and user experience to identify new ways to improve the existing software.
 c)Implementation here, the development team codes the product.They analyze the requirements to identify smaller coding tasks they can do daily to achieve the final result.Then go ahead to compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 a)Software Developer Roles
   Writing code and developing an entire software product.
@@ -29,6 +32,7 @@ c)Project Manger
   Overseeing the planning, execution and delivery of software projects.
   They ensure the project aligns with objectives  of business goals.
   Manage resources and mitigate risks.
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Answer;
 Integrated Development Environments (IDEs) play a crucial role in software development by providing a comprehensive set of tools and features to streamline the coding process and improve productivity. Reasons why IDEs are important include:
@@ -40,10 +44,12 @@ a)Change Tracking: VCS allows developers to track changes made to code over time
 b)Collaboration: VCS facilitates collaboration among developers by providing a centralized repository for storing code, managing conflicts, and merging contributions from multiple team members.
 c)Backup and Recovery: VCS serves as a backup mechanism for code, ensuring that project history is preserved and enabling recovery in case of accidental data loss.
 An example being Git Hub
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Answer;
 a)Burn out from the developer,They should ensure they get enough rest always
 b)Inability to predict software delivery since requirements may change resulting in scope creep and an exponential increase in the project budget.To avoid this,they should minimize external dependability, especially, avoid getting locked in the cloud.
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Answer;
 a)Intergration Testing is a method of testing how different units or components of a software application interact with each other. It is used to identify and resolve any issues that may arise when different units of the software are combined.
@@ -62,6 +68,7 @@ d)Acceptance Testing done to evaluate weather a software meets the business and 
 Importance;
          Improve product quality.
          Tverify that the system meets all of its functional and non-functional requirements.
+
 #Part 2: Introduction to AI and Prompt Engineering
 Define prompt engineering and discuss its importance in interacting with AI models.
 Answer;
@@ -69,6 +76,7 @@ Prompt engineering makes it easy for users to obtain relevant results in the fir
 Importance;
 a)Real-Time Prompt Optimization technology have enabled AI models to provide instant feedback on the effectiveness of prompts. This technology assesses the prompt's clarity, potential for bias, and alignment with the desired outcome, offering suggestions for improvement. 
 b)Integration with Domain-Specific Models.These specialized models are trained on industry-specific data, allowing for more accurate and relevant responses to prompts in fields like medicine, law, and finance. The combination of prompt engineering with these tailored models enhances the precision and utility of AI in specialized areas.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Answer;
 Prompt:
